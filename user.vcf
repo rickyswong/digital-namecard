@@ -6,7 +6,8 @@ FN: Rickys Wong
 ORG:Adaptive Solutions Consulting, Malaysia;
 TITLE:Director\n
 EMAIL;type=INTERNET;type=WORK;type=pref:adaptivesolution.bd@gmail.com
-TEL;type=MOBILE;type=VOICE:+60102766004;type=WORK;type=VOICE:+601112893919
+TEL;type=MOBILE;type=VOICE:+60102766004
+TEL;type=WORK;type=VOICE;type=pref:+601112893919
 item1.ADR;type=WORK;type=pref:;;;;;;
 item1.X-ABADR:
 item2.URL;type=pref:
