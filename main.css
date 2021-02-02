@@ -75,8 +75,8 @@ img.profile-pic {
 	flex-shrink: 1;
 	margin: 0;
 	padding: 0.25rem;
-	max-height: 100px;
-	height: 70%;
+	max-height: 300px;
+	height: 80%;
 }
 
 
