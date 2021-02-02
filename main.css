@@ -68,6 +68,18 @@ img.profile-pic {
 	overflow: auto;
 }
 
+.col.logo {
+	display: block;
+	flex-basis: 0;
+	flex-grow: 1;
+	flex-shrink: 1;
+	margin: 0;
+	padding: 0.25rem;
+	max-height: 100px;
+	height: 70%;
+}
+
+
 .col.is-1 {
 	flex: none;
 	width: 10%;
